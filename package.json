@@ -10,5 +10,6 @@
     "javascript"
   ],
   "author": "Juan Sandoval <juan.program06@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
