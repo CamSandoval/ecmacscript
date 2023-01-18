@@ -5,7 +5,7 @@ function newUser(name,age,country,UiD){
         name,
         age,
         country,
-         id: UiD,
+        id: UiD,
     }
 }
 console.log(newUser('camilo',26,'col',2))//OUTPUT={ name: 'camilo', age: 26, country: 'col', id: 2 }
