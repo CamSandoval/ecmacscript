@@ -11,5 +11,8 @@
   ],
   "author": "Juan Sandoval <juan.program06@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
